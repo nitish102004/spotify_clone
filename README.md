@@ -22,19 +22,19 @@ Responsive Design: The application is designed to be responsive, providing a sea
 
 <span style="font-size: 24px;">Usage</span>
 
-1.Open the application in your web browser.
+1. Open the application in your web browser.
 
-2.Use the search bar at the top to search for songs, artists, or albums.
+2. Use the search bar at the top to search for songs, artists, or albums.
 
-3.Click on a song from the search results to start playing it.
+3. Click on a song from the search results to start playing it.
 
-4.Control the playback using the provided playback controls (play, pause, skip).
+4. Control the playback using the provided playback controls (play, pause, skip).
 
-5.Create playlists by clicking the "Create Playlist" button and adding songs to it.
+5. Create playlists by clicking the "Create Playlist" button and adding songs to it.
 
-6.Manage your playlists by adding or removing songs as desired.
+6. Manage your playlists by adding or removing songs as desired.
 
-7.Enjoy your music!
+7. Enjoy your music!
 
 
 <span style="font-size: 24px;">Acknowledgments</span>
