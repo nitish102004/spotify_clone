@@ -1,4 +1,4 @@
-Spotify Clone
+<big>**Spotify Clone**</big>
 
 
 A simple Spotify clone built using HTML, CSS, and JavaScript. This project aims to replicate some of the core features of the popular music streaming service, such as searching and playing songs, creating playlists, and controlling music playback.
