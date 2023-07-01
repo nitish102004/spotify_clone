@@ -1,7 +1,11 @@
 Spotify Clone
+
+
 A simple Spotify clone built using HTML, CSS, and JavaScript. This project aims to replicate some of the core features of the popular music streaming service, such as searching and playing songs, creating playlists, and controlling music playback.
 
 Features
+
+
 Search Songs: Users can search for songs by entering the song title, artist name, or album name in the search bar. The application retrieves and displays relevant results from the available music library.
 
 Play Songs: Users can select a song from the search results to play it. The application provides playback controls, including play, pause, and skip buttons, allowing users to control their listening experience.
