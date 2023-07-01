@@ -20,6 +20,22 @@ Responsive Design: The application is designed to be responsive, providing a sea
 
 3. Open the index.html file in your preferred web browser.
 
+<span style="font-size: 24px;">Usage</span>
+
+1.Open the application in your web browser.
+2.Use the search bar at the top to search for songs, artists, or albums.
+3.Click on a song from the search results to start playing it.
+4.Control the playback using the provided playback controls (play, pause, skip).
+5.Create playlists by clicking the "Create Playlist" button and adding songs to it.
+6.Manage your playlists by adding or removing songs as desired.
+7.Enjoy your music!
+
+<span style="font-size: 24px;">Acknowledgments</span>
+
+This project was inspired by the functionality and design of the Spotify music streaming service.
+
+Feel free to further customize this README.md file based on your project's specific details, including screenshots, acknowledgments, and any additional instructions or information you may want to provide.
+
 
    
 
